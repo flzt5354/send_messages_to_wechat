@@ -1,0 +1,2 @@
+# send_messages_to_wechat
+利用免费的微信API测试接口，将爬虫得到的股票重要消息发送到自己微信
